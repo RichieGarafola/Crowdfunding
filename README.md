@@ -14,6 +14,10 @@ This project analyzes a dataset of crowdfunding campaigns in order to gain insig
 
 ---
 
+To view the Jupyter notebook containing the analysis, click [here](./Kickstarter.ipynb).
+
+---
+
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
