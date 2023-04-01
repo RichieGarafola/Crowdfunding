@@ -1,4 +1,4 @@
-![Kickstarter](./Images/Kickstarter.jpg)
+![Kickstarter](./Images/kickstarter.jpg)
 
 # Crowdfunding Data Analysis
 
