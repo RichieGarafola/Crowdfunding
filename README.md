@@ -15,6 +15,8 @@ This project analyzes a dataset of crowdfunding campaigns in order to gain insig
 ---
 
 To view the Jupyter notebook containing the analysis, click [here](./Kickstarter.ipynb).
+
+
 To view the Streamlit App containing the analysis, click [here](./app.py).
 
 ---
