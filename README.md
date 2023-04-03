@@ -19,6 +19,10 @@ To view the Jupyter notebook containing the analysis, click [here](./Kickstarter
 
 To view the Streamlit App containing the analysis, click [here](./app.py).
 
+To view the deployable Streamlit App, click the link below:
+
+https://crowdfunding.streamlit.app/
+
 ---
 
 ## Table of Contents
